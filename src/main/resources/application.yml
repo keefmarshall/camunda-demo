@@ -1,0 +1,4 @@
+camunda:
+  baseurl: http://localhost:8080/engine-rest
+  ribbon:
+    listOfServers: localhost:8080
